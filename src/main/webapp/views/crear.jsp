@@ -18,7 +18,7 @@
 			</tr>
 
 			<tr>
-				<td>Apellidos:</td>
+				<td>Apellido:</td>
 				<td><input type="text" name="apellidos" size="100"></td>
 			</tr>
 		</table>
